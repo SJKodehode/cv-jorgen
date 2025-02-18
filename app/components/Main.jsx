@@ -36,7 +36,7 @@ export default function MainPage() {
         {/* Right Content */}
         <section className="col-span-1 flex flex-col justify-center lg:-ml-16 text-center lg:text-left">
           <h2 className="text-4xl lg:text-6xl font-bold leading-tight lg:relative absolute top-16 lg:top-auto pl-6 lg:pl-0">Jørgen Sørheim</h2>
-          <a href="#" className="mt-4 text-black block lg:ml-12">Se arbeidet mitt &gt;&gt;</a>
+          <a href="/about" className="mt-4 text-black block lg:ml-12">Se arbeidet mitt &gt;&gt;</a>
         </section>
       </main>
 
